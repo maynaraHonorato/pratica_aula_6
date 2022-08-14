@@ -1,0 +1,42 @@
+body {
+font-family: Helvetica;
+background-color: #212121;
+} 
+
+h1 {
+    font-weight: bolder;
+    text-align: left;
+    color: aliceblue;
+    display: block;
+    margin-block-start: 0,67em;
+    margin-block-end: 0,67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+h2 {
+    text-align: left;
+    color: aliceblue;
+}
+
+p {
+    text-align: justify;
+    line-height: 22px;
+    color: aliceblue;
+}
+
+ul {
+    line-height: 24px;
+    color: aliceblue;
+}
+
+.capa {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    color: aliceblue;
+}
